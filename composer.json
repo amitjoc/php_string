@@ -1,0 +1,22 @@
+{
+	"keywords" : [
+		"php string"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Amitjoc\\Php_string\\" : "src"
+		}
+	},
+	"name" : "amitjoc/php_string",
+	"type" : "library",
+	"description" : "Php Library for string manipulation",
+	"license" : "MIT",
+	"require" : {
+		"php" : ">=7.4"
+	},
+	"authors" : [{
+			"name" : "Amit Joshi",
+			"email" : "amitjoc@gmail.com"
+		}
+	]
+}
